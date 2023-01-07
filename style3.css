@@ -1,0 +1,350 @@
+*{
+  margin: 0;
+  padding: 0;
+ 
+}
+.header1{
+ 
+  position: absolute;
+  left: 1050px;
+  bottom: 1400px;
+  font-size: 70px;
+  width: 600px;
+  color: white;
+  
+}
+.header2{
+  position: absolute;
+  left: 1050px;
+  bottom: 1300px;
+  font-size: 20px;
+  width: 400px;
+  color: white;
+  
+}
+.btn{
+  color: blue;
+  position: absolute;
+  left: 1050px;
+  bottom: 1225px;
+  font-size: 33px;
+  width: 200px;
+  background-color: white;
+  font-weight: 500;
+  border-radius: 6px;
+  border: 0
+  
+}
+.about{
+  display: flex;
+}
+.about1{
+  position: absolute;
+  left: 830px;
+  top: 1100px;
+  font-size: 40px;
+  width: 600px;
+}
+.about2{
+     position: absolute;
+     left: 850px;
+     top: 1300px;
+     font-size: 30px;
+     width: 600px;
+
+}
+.about3{
+  position: absolute;
+  left: 830px;
+  top: 1200px;
+  font-size: 20px;
+  width: 600px
+  
+}
+.about-img{
+  position: absolute;
+  left: 200px;
+  top: 900px;
+  
+}
+/*.about-img2{
+  position: absolute;
+  right: 605px;
+  bottom: 145px;
+  font-size: 10px;
+  width: 25px;
+  height: 25px;
+}
+.about-img3{
+  position: absolute;
+  right: 605px;
+  bottom: 135px;
+  font-size: 10px;
+  width: 25px;
+  height: 25px;
+}
+.about-img4{
+  position: absolute;
+  right: 605px;
+  bottom: 125px;
+  font-size: 10px;
+  width: 25px;
+  height: 25px;
+}
+.about-img5{
+  position: absolute;
+  right: 605px;
+  bottom: 115px;
+  font-size: 10px;
+  width: 25px;
+  height: 25px;
+}
+.about-img6{
+  position: absolute;
+  right: 605px;
+  bottom: 105px;
+  font-size: 10px;
+  width: 25px;
+  height: 25px;}*/
+ .plan{
+   position: absolute;
+   left: 700px;
+   top: 1800px;
+   font-size: 40px;
+   width: 600px;
+ }
+.myplan{
+  display: flex;
+  position: absolute;
+  top: 2100px;
+  left: 1000px;
+  
+  
+}
+.skillimg{
+  position: absolute;
+  right: 605px;
+  bottom: 20px;
+  font-size: px;
+  width: 180px;
+  height: 180px;
+  
+}
+.skillimg2{
+  position: absolute;
+  right: 300px;
+  bottom: 20px;
+  font-size: px;
+  width: 180px;
+  height: 180px;
+  
+}
+.skillimg3{
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  font-size: px;
+  width: 180px;
+  height: 180px;
+}
+.skillimg4{
+  position: absolute;
+  left: 100px;
+  bottom: 10px;
+  font-size: px;
+  width: 180px;
+  height: 180px;
+}
+.skill-title1{
+  position: absolute;
+  right : 530px;
+  top: 70px;
+  font-size: 30px;
+  font-weight: 600;
+  width: 300px;
+}
+.skill-title2{
+  position: absolute;
+  right : 320px;
+  top: 70px;
+  font-size: 30px;
+  font-weight: 600;
+}
+.skill-title3{
+  position: absolute;
+  right : 42px;
+  top: 70px;
+  font-size: 30px;
+  font-weight: 600;
+}
+.skill-title4{
+  position: absolute;
+  left : 120px;
+  top: 70px;
+  font-size: 30px;
+  font-weight: 600;
+  width: 180px;
+}
+.skill-des1{
+  position: absolute;
+  right : 600px;
+  top: 120px;
+  font-size: 30px;
+  width: 200px;
+}
+.skill-des2{
+  position: absolute;
+  right : 200px;
+  top: 120px;
+  font-size: 30px;
+  width: 300px;
+}
+.skill-des3{
+  position: absolute;
+  right : -7px;
+  top: 120px;
+  font-size: 30px;
+  width: 200px;
+}
+.skill-des4{
+  position: absolute;
+  left : 120px;
+  top: 120px;
+  font-size: 30px;
+  width: 400px;
+}
+.gar{
+  position: absolute;
+  top: 2400px;
+  left: 180px;
+  
+}
+.gar2{
+  position: absolute;
+  top: 2400px;
+  left: 180px;
+  mix-blend-mode: soft-light;
+  opacity: 90%;
+}
+.gar3{
+ position: absolute;
+ top: 2450px;
+ left: 250px;
+ color: white;
+ font-size: 50px;
+ font-weight: 800;
+}
+.gar4{
+  position: absolute;
+  top: 2600px;
+  left: 250px;
+  color: blue;
+  background-color: white;
+  font-size: 40px;
+  font-weight: 900px;
+  border-radius: 10px;
+}
+.gar5{
+  font-size: 25px;
+  padding: 10px 35px;
+  font-weight: 700;
+  
+}
+.resume{
+  position: absolute;
+  top: 2800px;
+  left: 260px;
+}
+.resume-content{
+  display: flex;
+  gap: 40px;
+  position: absolute;
+  
+  
+ 
+  
+}
+.resume-item .title{
+  font-weight: 700;
+  font-size: 35px;
+  color: #474747;
+  
+}
+.resume-item .subtitle{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+}
+.resume-item .des{
+  color: #757575;
+  font-size: 20px; 
+  justify-content: center;
+  width: 500px;
+  align-items: center
+ 
+}
+.resume-title{
+  font-weight: 800;
+  font-size: 33px;
+}
+.resume-title{
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+.section-title{
+  font-size: 50px;
+}
+.section-title1{
+  font-size: 50px;
+  position: absolute;
+  top: 800px;
+}
+.contact.section-title1{
+  text-align: left;
+}
+.section-title2{
+  font-size: 20px;
+  position: absolute;
+  top: 900px;
+  
+}
+ .ma{
+   font-size: 20px;
+   position: absolute;
+   top: 1000px;
+ }
+.contact{
+  
+  
+  
+  
+}
+.section-title3{
+  font-size: 50px;
+  position: absolute;
+  top: 800px;
+  left: 800px;
+}
+.frm{
+  position: absolute;
+  top: 900px;
+  left: 800px;
+  
+}
+ 
+.button{
+  background-color: orangered;
+  color: white;
+font-size: 20px;
+font-weight: 600;
+
+}
+.foot{
+  position: absolute;
+  top:4300px;
+  left: 700px;
+  
+}
+.contact input, textarea{
+  margin-bottom: 24px;
+  padding: 30px;}
